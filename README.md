@@ -1,1 +1,0 @@
-# HPLC_COL
